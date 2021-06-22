@@ -1,0 +1,237 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{
+                margin-top: 50px;
+				margin-left: 400px;
+            }
+            
+            .bingkai{
+                border: 5px solid #3498db;
+                width: 600px;
+                height: 760px;
+                
+            }
+            body{
+				background-attachment: fixed;
+				background-image: url(../images/lulus.png);
+				background size: inherit;
+				img-filter: blur(2px);
+            }
+            .kepala{
+                width: 610px;
+                height: 50px;
+                background-color: #3498db;
+                border-radius: 3px 3px 0 0;
+            }
+
+            .kepalatext{
+                color: #ffffff;
+                text-align: center;
+                font-size: 18pt;
+                font-family: Century;
+                padding-top: 12px;
+            }
+            
+            .kepalatext:hover{
+                color: #e74c3c;
+            }
+
+            .badan{
+                width: 600px;
+                height: 810px;
+                background-color: #ffffff;
+                border-radius: 3px;
+                box-shadow: 6px 6px 0 0 #ffffff;
+            }
+
+            .namadepan{
+    			text-transform:uppercase;
+                font-family: Century;
+                font-size: 13pt;
+                width: 415px;
+                height: 35px;
+                border: 1px solid #2980b9;
+                padding-left: 5px;
+                margin-top: 10px;
+                margin-left: 15px;
+                display: compact;
+                box-shadow: #95a5a6;
+                border-radius: 5px;
+            }
+
+            .alamat{
+   				text-transform:uppercase;
+                font-family: Century;
+                font-size: 13pt;
+                width: 415px;
+                height: 50px;
+                border: 1px solid #2980b9;
+                margin-left: 15px;
+                margin-top: 10px;
+                padding-left: 5px;
+                display: compact;
+                box-shadow: #95a5a6;
+                border-radius: 5px;
+            }
+
+            .email{
+                font-family: Century;
+                font-size: 13pt;
+                width: 415px;
+                height: 35px;
+                border: 1px solid #2980b9;
+                margin-left: 15px;
+                margin-top: 10px;
+                padding-left: 5px;
+                display: compact;
+                box-shadow: #95a5a6;
+                border-radius: 5px;
+            }
+
+            .jeniskelamin{
+                font-family: Century;
+                color: #3498db;
+                margin-top: 10px;
+                margin-left: 15px;
+                width: 15px;
+                height: 15px;
+                position: relative;
+                top: -35px;
+                display: compact;
+            }
+
+            .daftar{
+                background-color: #ffffff;
+                color: #3498db;
+                margin-top: -10px;  
+                margin-left: 15px;
+                width: 150px;
+                height: 40px;
+                border: 2px solid #3498db;
+                border-radius: 5px;
+                font-family: Century;
+                font-size: 13pt;
+            }
+            
+            .daftar:hover{
+                background-color: #F36;
+                color: #ffffff;
+            }
+
+            .bawah{
+                margin-top: 40px;
+                width: 440px;
+                height: 80px;
+                background-color: #ffffff;
+                border-radius: 0 0 1px 1px;
+            }
+
+            .password{
+                font-family: Century;
+                font-size: 13pt;
+                width: 200px;
+                height: 35px;
+                border: 1px solid #2980b9;
+                padding-left: 5px;
+                margin-top: 10px;
+                margin-left: 15px;
+                display: compact;
+                box-shadow: #95a5a6;
+                border-radius: 5px;
+            }
+
+            .konfpass{
+                font-family: Century;
+                font-size: 13pt;
+                width: 200px;
+                height: 35px;
+                border: 1px solid #2980b9;
+                margin-left: 10px;
+                margin-top: 10px;
+                padding-left: 5px;
+                display: compact;
+                box-shadow: #95a5a6;
+                border-radius: 5px;
+            }
+
+            .footertext{
+                margin-top: 5px;
+                text-align: center;
+                font-family: Century;
+                font-size: 12pt;
+                color: #ffffff;
+            }
+			.jurusan{
+                font-family: Century;
+                font-size: 12pt;
+                color: #666;
+                border: 1px solid #3498db;
+                margin-left: 15px;
+                height: 30px;
+				width: 250px;
+                margin-right: -18px;
+
+            }
+
+            .tgllahir{
+                font-family: Century;
+                font-size: 12pt;
+                color: #3498db;
+                border: 1px solid #3498db;
+                margin-left: 15px;
+                height: 30px;
+                margin-right: -18px;
+
+            }
+
+            .tgllahirtext{
+                margin-left: 15px;
+                color: #3498db;
+                font-family: Century;
+                font-size: 12pt;
+                text-align: left;
+            }
+					
+   			.jeniskelamintext{
+                margin-left: 15px;
+                color: #3498db;
+                font-family: Century;
+                font-size: 12pt;
+                text-align: left;
+            }
+  			.tlp{
+                font-family: Century;
+                font-size: 13pt;
+                width: 415px;
+                height: 35px;
+                border: 1px solid #2980b9;
+                margin-left: 15px;
+                margin-top: 10px;
+                padding-left: 5px;
+                display: compact;
+                box-shadow: #95a5a6;
+                border-radius: 5px;
+			}
+		   .username{
+						text-transform:lowercase;
+						font-family: Century;
+						font-size: 13pt;
+						width: 415px;
+						height: 35px;
+						border: 1px solid #2980b9;
+						margin-left: 15px;
+						margin-top: 10px;
+						padding-left: 5px;
+						display: compact;
+						box-shadow: #95a5a6;
+						border-radius: 5px;
+			}
+			.informasi_akun {
+			 			margin-left: 15px;
+						color: #3498db;
+						font-family: Century;
+						font-size: 12pt;
+						text-align: left;
+			}
+
